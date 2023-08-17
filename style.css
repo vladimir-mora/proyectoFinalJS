@@ -13,22 +13,17 @@ main {
 }
 
 .barra{
-    background-color: black;
-    border-bottom: solid 3px rgb(104, 45, 198) ;
+    background-color: whitesmoke;
+    border: solid 3px rgb(104, 45, 198);
 }
 
 .barra h1 {
-    color: white;
-}
-
-.barra a {
-    color: white;
-}
-
-.barra a:hover {
     color: var(--color-primario);
 }
 
+.barra a {
+    color: var(--color-primario);
+}
 
 /* main */
 #hero{
