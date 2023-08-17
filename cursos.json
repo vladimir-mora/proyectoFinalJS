@@ -1,0 +1,71 @@
+{
+    "programacion": [
+        {
+            "id": 1,
+            "nombre": "Desarrollo web",
+            "texto": "En este curso aprenderás a crear tu sitio web partiendo del prototipo en papel. Te sumergirás en las mejores prácticas del desarrollo web, trabajando con HTML y CSS.",
+            "precio": 56000,
+            "duracion": "10 semanas"
+        },
+        {
+            "id": 2,
+            "nombre": "JavaScript",
+            "texto": "En este curso aprenderás los fundamentos del lenguaje de programación más usado en la actualidad, con el cual es posible crear aplicaciones de todo tipo.",
+            "precio": 64800,
+            "duracion": "9 semanas"
+        },
+        {
+            "id": 3,
+            "nombre": "Programacion Backend",
+            "texto": "En este curso aprenderás a desarrollar aplicaciones modernas con Node.js y MongoDB. Programarás en Javascript del lado del servidor aplicando técnicas asincrónicas",
+            "precio": 157000,
+            "duracion": "24 semanas"
+        }
+    ],
+    "marketing": [
+        {
+            "id": 4,
+            "nombre": "Community Manager & Publicidad",
+            "texto": "En este curso de Community Manager & Publicidad aprenderás cómo crear un plan de Marketing Digital, y también a utilizar las principales herramientas de gestión para negocios digitales.",
+            "precio": 56000,
+            "duracion": "11 semanas"
+        },
+        {
+            "id": 5,
+            "nombre": "Publicidad en Redes Avanzado",
+            "texto": "En este curso conocerás las principales herramientas y elementos para construir una campaña. Comprenderás cómo hoy en día se pueden cristalizar a la perfección los objetivos comerciales y publicitarios de un proyecto.",
+            "precio": 56000,
+            "duracion": "8 semanas"
+        },
+        {
+            "id": 6,
+            "nombre": "Growth Marketing",
+            "texto": "En este curso aprenderás a elaborar estrategias integrales de adquisición orgánicas y/o pagas, y a medir los KPIs clave de tus campañas. Serás capaz de tomar decisiones a partir de la respuesta de la audiencia.",
+            "precio": 56000,
+            "duracion": "8 semanas"
+        }
+    ],
+    "diseño": [
+        {
+            "id": 7,
+            "nombre": "Diseño UX/UI",
+            "texto": "En este curso aprenderás a hacer un research, e investigar acerca de un problema que convertirás o en una idea de app o web. Diseñarás y crearás un prototipo de app o sitio web mobile first.",
+            "precio": 64800,
+            "duracion": "13 semanas"
+        },
+        {
+            "id": 8,
+            "nombre": "UX Writing",
+            "texto": "En este curso aprenderás las nociones principales sobre UX Writing, y por qué es tan importante pensar en el contenido a la hora de diseñar una interfaz.",
+            "precio": 56000,
+            "duracion": "8 semanas"
+        },
+        {
+            "id": 9,
+            "nombre": "UX Research",
+            "texto": "En este curso aprenderás los principales métodos para conocer, analizar y comunicar los hábitos, las motivaciones y las creencias de un grupo de usuarios.",
+            "precio": 56000,
+            "duracion": "8 semanas"
+        }
+    ]
+}

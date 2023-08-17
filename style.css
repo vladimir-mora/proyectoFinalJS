@@ -1,0 +1,108 @@
+main {
+    background-color: whitesmoke;
+}
+:root {
+    --color-primario: rgb(104, 45, 198);
+}
+
+/* header */
+.header{
+    background-color:var(--color-primario);
+    color: white;
+    font-weight: 600;
+}
+
+.barra{
+    background-color: black;
+    border-bottom: solid 3px rgb(104, 45, 198) ;
+}
+
+.barra h1 {
+    color: white;
+}
+
+.barra a {
+    color: white;
+}
+
+.barra a:hover {
+    color: var(--color-primario);
+}
+
+
+/* main */
+#hero{
+    height: 70vh;
+    background-image:linear-gradient(
+        0deg,
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)
+    ) ,url(/img/hero.jpg);
+    background-position: center;
+    background-size: cover;
+    border: solid 3px black ;
+}
+
+#hero p{
+    font-family: sans-serif;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    width: 50%;
+}
+
+#programacion {
+    background-color:var(--color-primario);
+    height: 50vh;
+    border: solid 3px black ;
+}
+
+#programacion h3 {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#marketing {
+    background-color: whitesmoke;
+    height: 58vh;
+    border: solid 3px black ;
+}
+
+#marketing h3 {
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#diseño {
+    background-color: var(--color-primario);
+    height: 50vh;
+    border: solid 3px black ;
+}
+
+#diseño h3 {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* footer */
+.contenedor {
+    background-color: black;
+    height: 7vh;
+    border-top: solid 3px black ;
+}
+
+.mor {
+    color: white;
+    cursor: pointer;
+}
+
+.mor:hover {
+    color: var(--color-primario);
+}
